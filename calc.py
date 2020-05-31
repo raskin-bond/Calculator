@@ -2,7 +2,7 @@
 
 counter = 1 # counter value is 9
 ncounter = 50
-while counter <= 10:
+while counter <= 100:
 
     #print("congrats ")  # print this statement if counter's value is less than or equal to 10
                      # but original counter value is true cause 5 < 10
@@ -18,4 +18,4 @@ while ncounter == counter:
 
     print( "all loop are done")
 
-    counter +=49
+    counter +=1
